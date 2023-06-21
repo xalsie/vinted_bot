@@ -1,1 +1,12 @@
-{}
+{
+    "subscriptions": [
+        {
+            "id": "s7ssc",
+            "url": "https://www.vinted.fr/vetements?brand_id[]=3383",
+            "channelID": "1064676814527664191",
+            "uuid": "306487572740177920"
+        }
+    ],
+    "is_first_sync": false,
+    "last_item_ts_s7ssc": "null"
+}
